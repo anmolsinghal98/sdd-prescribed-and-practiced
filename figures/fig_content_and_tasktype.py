@@ -98,8 +98,12 @@ fig.subplots_adjust(left=.115, right=.995, top=.735, bottom=.07, wspace=.62)
 
 ax = axes[0]
 labs = PURPOSE + OBJECT
-share = [sum(l in p["purpose"] or l in p["object"] for p in
-             [x for v in bt.values() for x in v]) / len(T) * 100 for l in labs]
+# The judge sample is a fixed draw per type, so the pooled share would count
+# each type equally. Weight each type by its number of files instead, as the
+# text and verify/claims.py do.
+_tot = sum(size[t] for t in bt)
+share = [sum(size[t] * sum(l in p["purpose"] or l in p["object"] for p in v) / len(v)
+             for t, v in bt.items()) / _tot * 100 for l in labs]
 yy = list(range(len(labs)))[::-1]
 for i, l, v in zip(yy, labs, share):
     ax.barh(i, v, .66, color="#2a78d6" if l in PURPOSE else "#d95926",
@@ -110,7 +114,7 @@ for x in (25, 50, 75):
 ax.set_yticks(yy); ax.set_yticklabels(labs, fontsize=6.5)
 ax.set_xlim(0, 108); ax.set_xticks([0, 50, 100]); ax.set_xticklabels(["0", "50", "100%"], fontsize=6.3)
 ax.tick_params(length=0)
-ax.set_title("all judged specs", fontsize=7.0, loc="left", pad=13)
+ax.set_title("all judged specs, file-weighted", fontsize=7.0, loc="left", pad=13)
 ax.legend([plt.Rectangle((0,0),1,1,fc=c,ec="white",lw=.5) for c in ("#2a78d6","#d95926")],
           ["purpose", "object"], loc="lower left", bbox_to_anchor=(0, 1.005, 1, .1),
           borderaxespad=0, frameon=False, fontsize=6.3, ncol=2, handlelength=1.1,

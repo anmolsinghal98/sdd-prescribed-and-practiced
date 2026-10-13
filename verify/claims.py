@@ -370,6 +370,11 @@ def g_judges(c):
 
     work = {r["id"]: r["parsed"] for r in jsonl("e7_tasktype.jsonl") if r.get("parsed")}
     claim("judges", "documents judged for work type", 1000, len(work))
+    # Purpose labels use the same per-type file weighting as the content labels.
+    for label, printed in (("feat", 82.0), ("fix", 16.5), ("refactor", 24.3), ("perf", 11.6)):
+        share, _ = weighted("e7_sample.csv", work,
+                            lambda p, l=label: l in (p.get("purpose") or []))
+        claim("judges", f"purpose {label} (%)", printed, share)
 
 
 

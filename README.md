@@ -40,7 +40,7 @@ recomputes it from this package. Percentages are compared at the precision the
 paper prints: 98.3% must round-trip to 98.3, while a paper that prints 79% is
 satisfied by 79.4.
 
-**`make verify` exits zero: all 74 claims reproduce.** Two figures in an
+**`make verify` exits zero: all 78 claims reproduce.** Two figures in an
 earlier draft did not, and the checks hold the corrected values:
 
 - **Kiro's single-commit share is 74.2%.** The draft's 74.5% came from
