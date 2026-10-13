@@ -1,0 +1,428 @@
+high_level_code,low_level_code,source,n_participants,n_tool_makers,n_tool_users,participants,n_reddit_records,reddit_records
+Experience,open-source contributor or maintainer,interviews,11,4,7,"P1, P2, P3, P5, P6, P7, P8, P10, P11, P17, P19",0,
+Experience,industry or enterprise software,interviews,10,4,6,"P4, P6, P9, P10, P11, P12, P16, P18, P19, P21",0,
+Experience,SDD used solo,interviews,9,4,5,"P1, P2, P7, P8, P11, P15, P17, P18, P21",0,
+Experience,SDD used in a team with non-developer roles,interviews,8,3,5,"P4, P6, P9, P10, P12, P13, P16, P19",0,
+Experience,works in teams,interviews,8,4,4,"P2, P3, P5, P6, P10, P11, P12, P13",0,
+Experience,heavy use of AI coding agents,interviews,6,2,4,"P2, P6, P7, P8, P10, P19",0,
+Experience,less than 10 years of experience,interviews,6,1,5,"P4, P5, P10, P14, P16, P20",0,
+Experience,domain-specific background,interviews,5,2,3,"P1, P8, P13, P16, P17",0,
+Experience,full-stack or polyglot development,interviews,5,0,5,"P5, P8, P10, P12, P19",0,
+Experience,large-scale codebases,interviews,5,3,2,"P6, P8, P9, P14, P21",0,
+Experience,solo developer,interviews,5,1,4,"P2, P7, P8, P17, P19",0,
+Experience,pays for tokens personally,interviews and Reddit,4,1,3,"P1, P3, P15, P18",1,R99
+Experience,20-29 years of experience,interviews,4,1,3,"P3, P8, P11, P12",0,
+Experience,evolution of AI tool usage,interviews,4,1,3,"P1, P4, P5, P16",0,
+Experience,type and scope of projects,interviews,4,1,3,"P2, P3, P15, P18",0,
+Experience,non-developer or non-traditional background,interviews and Reddit,3,1,2,"P1, P17, P18",1,R98
+Experience,backend development,interviews,3,1,2,"P4, P13, P16",0,
+Experience,organization tracks token spend or ROI,interviews,3,0,3,"P4, P10, P16",0,
+Experience,personal side projects,interviews,3,1,2,"P15, P19, P21",0,
+Experience,SDD used in a developer-only team,interviews,3,0,3,"P3, P5, P14",0,
+Experience,startup or founder,interviews,3,1,2,"P14, P18, P20",0,
+Experience,10-19 years of experience,interviews,2,1,1,"P13, P19",0,
+Experience,30+ years of experience,interviews,2,1,1,"P6, P15",0,
+Experience,mobile development,interviews,2,1,1,"P13, P19",0,
+Experience,requirements engineering or traditional SDLC background,interviews,2,1,1,"P6, P12",0,
+Adoption,motivation: scaling beyond vibe coding,interviews and Reddit,7,4,3,"P2, P5, P9, P15, P18, P20, P21",1,R34
+Adoption,introduced by an individual champion,interviews,7,4,3,"P3, P4, P5, P6, P9, P13, P21",0,
+Adoption,motivation: correctness and quality,interviews and Reddit,5,2,3,"P1, P6, P12, P15, P19",2,"R38, R92"
+Adoption,motivation: structure and control for agents,interviews and Reddit,5,2,3,"P8, P10, P11, P13, P17",1,R38
+Adoption,motivation: team coordination,interviews,5,2,3,"P2, P3, P10, P16, P20",0,
+Adoption,motivation: agent context and memory limits,interviews and Reddit,4,2,2,"P7, P9, P10, P21",5,"R38, R39, R45, R59, R95"
+Adoption,arrived at SDD organically,interviews and Reddit,4,2,2,"P1, P3, P13, P17",4,"R43, R72, R86, R87"
+Adoption,adopted as an organizational process,interviews,4,0,4,"P10, P12, P16, P19",0,
+Adoption,"discovered through community, tools, or content",interviews,3,0,3,"P4, P17, P19",0,
+Adoption,belief in value of SDD,interviews and Reddit,2,0,2,"P3, P5",2,"R66, R92"
+Adoption,fits an existing formal process,interviews,2,0,2,"P10, P12",0,
+Adoption,motivation: natural integration with SDLC,interviews,2,0,2,"P3, P12",0,
+Adoption,used personally but not organizationally,interviews,2,1,1,"P18, P21",0,
+Adoption,abandoned or re-adopted SDD,interviews,1,0,1,P19,0,
+Adoption,motivation: speed and productivity,interviews,1,0,1,P14,0,
+Adoption,requires team or organizational shift,interviews,1,1,0,P21,0,
+Adoption,skepticism about SDD maturity,interviews,1,0,1,P3,0,
+Spec content,"goals, problem statement, and intent (what and why)",interviews and Reddit,12,4,8,"P1, P3, P4, P5, P8, P9, P10, P11, P15, P17, P19, P21",4,"R15, R31, R45, R98"
+Spec content,design and architecture,interviews and Reddit,10,3,7,"P1, P4, P5, P6, P7, P8, P9, P12, P15, P16",3,"R11, R31, R98"
+Spec content,implementation detail included,interviews,9,2,7,"P7, P12, P13, P14, P15, P16, P18, P19, P21",0,
+Spec content,tasks and plans,interviews and Reddit,8,3,5,"P4, P5, P7, P9, P10, P11, P12, P21",3,"R3, R61, R80"
+Spec content,implementation detail kept out of spec,interviews and Reddit,8,6,2,"P1, P2, P3, P6, P9, P11, P17, P20",1,R91
+Spec content,verification and test plan,interviews,8,1,7,"P3, P8, P10, P14, P15, P16, P19, P21",0,
+Spec content,constraints and guardrails,interviews and Reddit,6,3,3,"P1, P8, P10, P11, P15, P21",6,"R3, R20, R34, R42, R45, R92"
+Spec content,implementation approach,interviews,6,1,5,"P4, P7, P10, P14, P19, P21",0,
+Spec content,requirements and user stories,interviews and Reddit,5,2,3,"P6, P9, P12, P14, P16",5,"R15, R31, R37, R93, R98"
+Spec content,domain knowledge and coding conventions,interviews and Reddit,5,2,3,"P4, P8, P11, P13, P16",3,"R3, R31, R62"
+Spec content,acceptance criteria,interviews,5,3,2,"P4, P6, P9, P19, P21",0,
+Spec content,what vs. how separation depends on context,interviews,5,1,4,"P4, P5, P6, P8, P15",0,
+Spec content,business context,interviews and Reddit,4,2,2,"P6, P9, P10, P17",2,"R11, R37"
+Spec content,"technical details (stack, data structures, algorithms)",interviews and Reddit,4,2,2,"P11, P13, P15, P18",2,"R37, R93"
+Spec content,interface and API definitions,interviews and Reddit,4,2,2,"P2, P11, P16, P19",1,R93
+Spec content,"content varies by project, team, or task",interviews,4,3,1,"P5, P9, P11, P20",0,
+Spec content,implementation detail included selectively,interviews,4,0,4,"P4, P5, P8, P10",0,
+Spec content,trade-offs and design decisions,interviews,4,1,3,"P1, P4, P8, P10",0,
+Spec content,edge cases and scenarios,interviews and Reddit,3,1,2,"P6, P17, P19",1,R34
+Spec content,open questions,interviews and Reddit,2,1,1,"P1, P8",1,R62
+Spec content,diagrams,interviews,2,1,1,"P6, P10",0,
+Spec content,non-functional requirements,interviews,2,1,1,"P6, P16",0,
+Spec content,separates requirements (what) from implementation (how),interviews,2,2,0,"P6, P9",0,
+Spec content,avoid overspecification,interviews and Reddit,1,0,1,P15,1,R98
+Spec content,decision history and failed experiments,interviews and Reddit,1,1,0,P1,1,R57
+Spec content,code examples,interviews,1,0,1,P8,0,
+Spec content,out of scope and non-goals,interviews,1,0,1,P4,0,
+Spec content,reference manuals for unfamiliar libraries or languages,interviews,1,1,0,P1,0,
+Spec content,use cases with flows and conditions,interviews,1,1,0,P6,0,
+Spec structure,"hierarchical decomposition (e.g., PRD or epic, spec, tasks)",interviews and Reddit,19,8,11,"P1, P2, P3, P4, P5, P6, P7, P8, P9, P10, P11, P12, P13, P15, P16, P18, P19, P20, P21",4,"R11, R19, R53, R92"
+Spec structure,specs linked to each other and to code,interviews and Reddit,13,6,7,"P2, P4, P5, P6, P8, P9, P11, P13, P14, P15, P16, P18, P20",2,"R59, R66"
+Spec structure,specs scoped to individual changes,interviews,13,3,10,"P4, P5, P8, P10, P11, P12, P13, P15, P16, P17, P18, P19, P21",0,
+Spec structure,tool-defined template,interviews,9,3,6,"P4, P5, P8, P10, P11, P12, P13, P15, P20",0,
+Spec structure,specs not linked to each other or to code,interviews,8,2,6,"P1, P3, P7, P10, P12, P17, P19, P21",0,
+Spec structure,fixed template or schema for spec body,interviews,7,3,4,"P2, P6, P9, P16, P17, P18, P19",0,
+Spec structure,specs scoped to system capabilities or subsystems,interviews,7,4,3,"P1, P2, P3, P6, P7, P14, P20",0,
+Spec structure,free-form markdown,interviews and Reddit,5,2,3,"P1, P3, P7, P14, P21",1,R2
+Spec structure,format not important,interviews,5,3,2,"P3, P9, P11, P18, P21",0,
+Spec structure,"separate documents for requirements, design, and tasks",interviews and Reddit,4,2,2,"P8, P9, P15, P20",1,R2
+Spec structure,structure matters for agent reliability,interviews and Reddit,4,2,2,"P2, P6, P17, P19",1,R78
+Spec structure,implementation detail in separate plan or design artifact,interviews,4,4,0,"P1, P9, P11, P20",0,
+Spec structure,spec organization in folders or by feature,interviews,4,1,3,"P1, P4, P8, P14",0,
+Spec structure,markdown format,interviews and Reddit,3,0,3,"P7, P14, P19",1,R95
+Spec structure,modular specs scoped to one subject,interviews and Reddit,2,1,1,"P2, P3",1,R66
+Spec structure,separate views for humans and agents,interviews,2,1,1,"P10, P20",0,
+Spec structure,spec deltas separating current state from changes,interviews,2,1,1,"P5, P20",0,
+Spec structure,"structured notation (Gherkin, EARS, given-when-then)",interviews,2,1,1,"P9, P17",0,
+Spec structure,structured notation for acceptance tests (outside the spec),interviews,2,1,1,"P12, P21",0,
+Spec structure,concise specs with size limits,interviews and Reddit,1,1,0,P2,1,R61
+Spec structure,issues or tickets as specs,interviews and Reddit,1,0,1,P17,1,R54
+Spec structure,no standard structure yet,interviews and Reddit,1,0,1,P19,1,R40
+Spec structure,organization unimportant when used only to clarify intent,interviews,1,1,0,P9,0,
+Spec structure,reusable spec skeleton,interviews,1,0,1,P19,0,
+Spec structure,scepticism about markdown,interviews,1,0,1,P3,0,
+Spec structure,unambiguous and consistent terminology,interviews,1,0,1,P16,0,
+Spec structure,use-case templates,interviews,1,1,0,P6,0,
+Spec workflow,AI-authored specs,interviews,18,6,12,"P1, P2, P3, P4, P5, P6, P7, P8, P11, P12, P13, P14, P15, P16, P17, P18, P19, P21",0,
+Spec workflow,spec source: conversation or research with AI,interviews and Reddit,12,3,9,"P1, P3, P5, P7, P8, P11, P14, P15, P17, P18, P19, P21",4,"R5, R18, R19, R43"
+Spec workflow,iterative spec refinement,interviews and Reddit,12,5,7,"P1, P2, P6, P8, P9, P12, P14, P15, P16, P18, P19, P20",1,R51
+Spec workflow,spec-gated autonomous workflow,interviews and Reddit,10,4,6,"P2, P3, P7, P8, P9, P11, P14, P17, P19, P21",7,"R39, R59, R63, R70, R74, R88, R90"
+Spec workflow,SDD for brownfield projects,interviews and Reddit,8,3,5,"P2, P4, P6, P7, P10, P14, P17, P21",4,"R20, R25, R28, R62"
+Spec workflow,SDD use decided by task size or complexity,interviews and Reddit,8,2,6,"P4, P5, P10, P11, P12, P13, P14, P19",2,"R81, R92"
+Spec workflow,research or exploration before spec,interviews,8,3,5,"P1, P4, P8, P9, P15, P18, P19, P20",0,
+Spec workflow,human-gated per-change workflow,interviews and Reddit,7,1,6,"P4, P5, P10, P12, P13, P15, P16",1,R11
+Spec workflow,spec refined through implementation,interviews and Reddit,7,7,0,"P1, P2, P6, P9, P13, P20, P21",1,R54
+Spec workflow,SDD use decided by risk or uncertainty,interviews,7,4,3,"P2, P3, P9, P15, P17, P20, P21",0,
+Spec workflow,"no SDD for small tasks, bugs, or one-offs",interviews and Reddit,6,1,5,"P4, P5, P10, P12, P13, P19",9,"R4, R20, R33, R41, R42, R44, R86, R89, R91"
+Spec workflow,task decomposition and orchestration,interviews and Reddit,6,3,3,"P4, P6, P7, P11, P18, P21",8,"R9, R32, R39, R45, R68, R88, R89, R93"
+Spec workflow,test-first development (TDD or ATDD),interviews and Reddit,6,2,4,"P2, P4, P7, P14, P17, P21",4,"R48, R62, R92, R98"
+Spec workflow,spec source: upstream requirements artifacts,interviews and Reddit,6,2,4,"P4, P6, P9, P10, P12, P16",2,"R20, R62"
+Spec workflow,workflow depends on organizational context and domain,interviews,6,3,3,"P6, P8, P10, P16, P20, P21",0,
+Spec workflow,agent-led elicitation via clarifying questions,interviews and Reddit,5,2,3,"P4, P7, P14, P20, P21",8,"R19, R43, R45, R54, R61, R88, R89, R93"
+Spec workflow,"separate agents for authoring, implementation, and review",interviews and Reddit,5,1,4,"P2, P4, P5, P10, P17",5,"R11, R22, R89, R90, R98"
+Spec workflow,"SDD use depends on stakes, risk, or trust",interviews and Reddit,5,3,2,"P9, P15, P17, P20, P21",1,R41
+Spec workflow,vibe coding for exploration and prototypes,interviews and Reddit,5,2,3,"P2, P3, P9, P12, P17",1,R93
+Spec workflow,reverse-engineering specs from existing code,interviews,5,3,2,"P2, P6, P8, P10, P21",0,
+Spec workflow,spec refined before implementation,interviews,5,1,4,"P5, P11, P12, P16, P19",0,
+Spec workflow,SDD for greenfield projects,interviews and Reddit,4,0,4,"P5, P7, P10, P16",3,"R14, R79, R89"
+Spec workflow,integration with issue trackers,interviews and Reddit,4,0,4,"P5, P12, P16, P17",1,R12
+Spec workflow,fresh context per task or session,interviews and Reddit,3,1,2,"P2, P4, P10",7,"R23, R59, R61, R62, R68, R82, R94"
+Spec workflow,SDD for large or complex work,interviews and Reddit,3,0,3,"P5, P10, P14",6,"R34, R39, R76, R86, R89, R92"
+Spec workflow,human-authored specs,interviews and Reddit,3,0,3,"P3, P10, P14",2,"R19, R21"
+Spec workflow,system-level design-first workflow,interviews and Reddit,3,2,1,"P1, P6, P18",1,R92
+Spec workflow,custom or adapted workflow,interviews,3,1,2,"P4, P6, P7",0,
+Spec workflow,"expensive model plans, cheaper model implements",interviews,3,0,3,"P3, P7, P18",0,
+Spec workflow,multi-model or adversarial spec creation,interviews,3,1,2,"P1, P3, P4",0,
+Spec workflow,parallel implementation,interviews,3,2,1,"P4, P6, P21",0,
+Spec workflow,workflow choice driven by personal preference or instinct,interviews,3,1,2,"P8, P10, P20",0,
+Spec workflow,agent produces a plan before implementation,interviews and Reddit,2,0,2,"P14, P19",3,"R6, R45, R93"
+Spec workflow,"requirements, design, and tasks phases",interviews and Reddit,2,1,1,"P9, P10",3,"R45, R76, R98"
+Spec workflow,human approval before implementation,interviews and Reddit,2,2,0,"P2, P20",2,"R45, R76"
+Spec workflow,"model tiering (strong models plan, cheaper models implement)",interviews and Reddit,2,0,2,"P7, P18",2,"R29, R76"
+Spec workflow,PRD-to-spec-to-plan pipeline,interviews and Reddit,2,0,2,"P4, P5",2,"R18, R80"
+Spec workflow,SDD for features and refactoring,interviews and Reddit,2,1,1,"P4, P13",1,R92
+Spec workflow,always follows SDD workflow,interviews,2,1,1,"P6, P7",0,
+Spec workflow,bugs fixed by direct prompting,interviews,2,0,2,"P7, P8",0,
+Spec workflow,CI/CD and programmatic gating,interviews,2,1,1,"P2, P17",0,
+Spec workflow,spec as change request over existing code,interviews,2,1,1,"P11, P16",0,
+Spec workflow,team roles in spec creation,interviews,2,1,1,"P6, P16",0,
+Spec workflow,step-by-step implementation with checkpoints,interviews and Reddit,1,1,0,P13,5,"R20, R42, R43, R62, R92"
+Spec workflow,"design-heavy upfront, code later",interviews and Reddit,1,1,0,P1,2,"R31, R70"
+Spec workflow,SDD use depends on clarity or maturity of intent,interviews and Reddit,1,1,0,P2,2,"R74, R84"
+Spec workflow,task decomposition and orchestration using skills,interviews and Reddit,1,0,1,P4,1,R90
+Spec workflow,follows tool defaults,interviews,1,0,1,P5,0,
+Spec workflow,human acts as orchestrator,interviews,1,0,1,P18,0,
+Spec workflow,human control over task progression,interviews,1,1,0,P6,0,
+Spec workflow,implementation deferred until interfaces are agreed,interviews,1,1,0,P2,0,
+Spec workflow,low threshold for using SDD,interviews,1,0,1,P8,0,
+Spec workflow,PRD-to-spec-to-plan pipeline: cross-repo spec authoring,interviews,1,0,1,P4,0,
+Spec workflow,"prototype first, spec afterwards",interviews,1,1,0,P21,0,
+Spec workflow,SDD use driven by team or organizational policy,interviews,1,0,1,P19,0,
+Spec workflow,specs fed to agent incrementally,interviews,1,0,1,P18,0,
+Spec workflow,stable use-case and domain-model approach,interviews,1,1,0,P6,0,
+Spec workflow,starts from idea or brain dump,interviews,1,0,1,P8,0,
+Spec workflow,tests written after implementation (not TDD),interviews,1,0,1,P5,0,
+Spec workflow,vibe coding for debugging and brainstorming,interviews,1,0,1,P12,0,
+Spec workflow,human implements code from the spec,Reddit,0,0,0,,1,R35
+Spec evaluation,end-to-end or acceptance tests,interviews,12,4,8,"P3, P4, P6, P9, P12, P13, P14, P16, P17, P18, P19, P21",0,
+Spec evaluation,human-anchored verification (acceptance criteria or human-defined tests),interviews,11,5,6,"P1, P4, P5, P6, P9, P12, P13, P16, P17, P19, P21",0,
+Spec evaluation,tests verify code against spec,interviews and Reddit,10,5,5,"P1, P2, P4, P6, P8, P11, P14, P15, P17, P21",3,"R26, R61, R78"
+Spec evaluation,manual spec review,interviews and Reddit,10,4,6,"P2, P5, P6, P8, P10, P12, P13, P14, P16, P20",2,"R62, R92"
+Spec evaluation,verification left to agents,interviews,10,3,7,"P2, P3, P7, P8, P10, P11, P14, P15, P18, P20",0,
+Spec evaluation,multi-agent adversarial review,interviews and Reddit,8,4,4,"P1, P2, P3, P4, P8, P9, P17, P21",2,"R50, R76"
+Spec evaluation,verification is hard or unsolved,interviews and Reddit,8,2,6,"P1, P3, P8, P10, P14, P16, P18, P20",2,"R44, R77"
+Spec evaluation,full human spec review,interviews,7,4,3,"P2, P6, P11, P12, P13, P16, P19",0,
+Spec evaluation,partial or cursory spec reading,interviews,7,1,6,"P4, P5, P7, P8, P14, P15, P20",0,
+Spec evaluation,manual code review,interviews and Reddit,6,2,4,"P5, P12, P13, P15, P19, P21",4,"R18, R31, R57, R93"
+Spec evaluation,agent-based code review,interviews and Reddit,6,2,4,"P2, P5, P6, P12, P14, P19",3,"R12, R46, R76"
+Spec evaluation,"deterministic checks (CI, linters, static analysis)",interviews and Reddit,6,2,4,"P2, P3, P5, P8, P12, P21",2,"R44, R55"
+Spec evaluation,requirement-code-test traceability,interviews and Reddit,5,3,2,"P6, P9, P18, P19, P20",5,"R2, R3, R41, R45, R98"
+Spec evaluation,AI-generated tests,interviews,5,1,4,"P5, P7, P12, P17, P21",0,
+Spec evaluation,humans define behavior-level tests,interviews,5,2,3,"P4, P9, P12, P17, P21",0,
+Spec evaluation,spec review primarily delegated to agents,interviews,5,1,4,"P3, P9, P10, P17, P18",0,
+Spec evaluation,team or peer spec review,interviews,5,2,3,"P6, P10, P16, P19, P20",0,
+Spec evaluation,concerns about test quality,interviews,4,2,2,"P3, P7, P11, P20",0,
+Spec evaluation,spec defects discovered during implementation,interviews,4,2,2,"P6, P7, P8, P13",0,
+Spec evaluation,agent-based spec review,interviews and Reddit,3,1,2,"P3, P12, P13",1,R43
+Spec evaluation,criteria for a good spec,interviews,3,1,2,"P9, P10, P19",0,
+Spec evaluation,humans review AI-written tests,interviews,3,1,2,"P5, P6, P12",0,
+Spec evaluation,mainly unit tests,interviews,3,1,2,"P2, P7, P15",0,
+Spec evaluation,independent reviewer context,interviews and Reddit,2,1,1,"P17, P21",1,R85
+Spec evaluation,no systematic evaluation,interviews,2,1,1,"P7, P13",0,
+Spec evaluation,spec quality judged intuitively,interviews,2,2,0,"P1, P2",0,
+Spec evaluation,unable to judge spec quality,interviews and Reddit,1,0,1,P17,1,R48
+Spec evaluation,dataset or benchmark-based evaluation,interviews,1,0,1,P19,0,
+Spec evaluation,formal verification discussed,interviews,1,1,0,P20,0,
+Spec evaluation,human-led questioning of the agent about specs,interviews,1,0,1,P17,0,
+Spec evaluation,limited or no manual test review,interviews,1,0,1,P7,0,
+Spec evaluation,no dedicated traceability or quality eval,interviews,1,0,1,P5,0,
+Spec evaluation,review of test coverage and quality gates,interviews,1,0,1,P5,0,
+Spec evaluation,separate testing team,interviews,1,0,1,P16,0,
+Spec evaluation,task-list completion checks,interviews,1,0,1,P5,0,
+Spec evaluation,tests added to prevent recurring bugs,interviews,1,0,1,P7,0,
+Spec evaluation,visual or UI-based evaluation,interviews,1,0,1,P18,0,
+Spec maintenance,living spec kept current,interviews,10,5,5,"P1, P2, P3, P6, P8, P9, P16, P18, P19, P20",0,
+Spec maintenance,specs as historical record and provenance,interviews,9,3,6,"P5, P7, P8, P9, P10, P11, P18, P19, P20",0,
+Spec maintenance,specs committed with code,interviews and Reddit,7,3,4,"P4, P5, P8, P9, P10, P11, P13",3,"R76, R87, R91"
+Spec maintenance,drift detection and checks,interviews and Reddit,7,3,4,"P2, P6, P8, P10, P11, P12, P14",1,R46
+Spec maintenance,specs never deleted,interviews,7,2,5,"P4, P5, P6, P7, P8, P13, P19",0,
+Spec maintenance,specs kept as accumulated record,interviews,6,2,4,"P4, P5, P7, P10, P11, P13",0,
+Spec maintenance,specs updated alongside changes,interviews and Reddit,4,1,3,"P1, P3, P8, P18",1,R3
+Spec maintenance,spec or repository bloat,interviews,4,2,2,"P8, P9, P10, P11",0,
+Spec maintenance,sync and archive specs after implementation,interviews,4,2,2,"P8, P13, P18, P20",0,
+Spec maintenance,spec as source of truth,interviews and Reddit,3,2,1,"P6, P9, P19",3,"R44, R45, R50"
+Spec maintenance,"specs temporary, discarded after implementation",interviews and Reddit,3,1,2,"P12, P14, P21",3,"R54, R61, R96"
+Spec maintenance,consolidate or refactor specs,interviews,3,0,3,"P3, P17, P18",0,
+Spec maintenance,specs discarded after implementation,interviews,3,1,2,"P12, P14, P21",0,
+Spec maintenance,specs not updated after implementation,interviews,3,2,1,"P4, P13, P21",0,
+Spec maintenance,code as source of truth,interviews,2,2,0,"P11, P21",0,
+Spec maintenance,spec versioning,interviews,2,0,2,"P16, P19",0,
+Spec maintenance,specs not committed,interviews,2,0,2,"P4, P14",0,
+Spec maintenance,spec status lifecycle metadata,interviews and Reddit,1,1,0,P2,1,R73
+Spec maintenance,acceptance tests as the durable artifact,interviews,1,1,0,P21,0,
+Spec maintenance,centralized spec repository,interviews,1,0,1,P16,0,
+Spec maintenance,drift checks cost more than they catch,interviews,1,1,0,P6,0,
+Spec maintenance,future intent to retain specs,interviews,1,0,1,P12,0,
+Spec maintenance,living docs maintained instead of specs,interviews,1,0,1,P14,0,
+Spec maintenance,new specs instead of modifying existing ones,interviews,1,0,1,P4,0,
+Spec maintenance,pushing all artifacts unnecessary,interviews,1,0,1,P3,0,
+Spec maintenance,requirements kept upstream in tickets or requirement tools,interviews,1,0,1,P12,0,
+Spec maintenance,specs retained after implementation,interviews,1,1,0,P20,0,
+Spec maintenance,task lists disposable while requirements persist,interviews,1,1,0,P9,0,
+Spec maintenance,update behavior unknown or unverified,interviews,1,0,1,P17,0,
+Tooling,customization level: builds own tool or workflow,interviews and Reddit,11,8,3,"P1, P2, P3, P6, P9, P11, P13, P14, P18, P20, P21",3,"R69, R72, R83"
+Tooling,built own SDD tool or framework,interviews and Reddit,8,5,3,"P2, P8, P11, P13, P14, P19, P20, P21",17,"R20, R48, R49, R50, R54, R55, R56, R59, R61, R63, R65, R66, R67, R73, R76, R90, R94"
+Tooling,customization level: extends an existing tool,interviews and Reddit,8,0,8,"P4, P7, P8, P10, P12, P16, P17, P19",3,"R2, R74, R82"
+Tooling,uses OpenSpec,interviews and Reddit,8,3,5,"P5, P7, P8, P9, P10, P13, P15, P20",3,"R1, R56, R79"
+Tooling,customizing SDD tools,interviews and Reddit,7,5,2,"P6, P9, P10, P13, P19, P20, P21",4,"R2, R22, R27, R81"
+Tooling,tool choice driven by flexibility and lightness,interviews and Reddit,6,2,4,"P7, P8, P9, P15, P19, P20",5,"R2, R16, R79, R81, R95"
+Tooling,need: integration with other artifacts and tools,interviews,6,3,3,"P5, P6, P8, P10, P11, P20",0,
+Tooling,switched to a lighter or more customizable tool,interviews,6,2,4,"P7, P8, P11, P13, P15, P19",0,
+Tooling,customizes for organizational fit,interviews,5,1,4,"P4, P6, P10, P12, P19",0,
+Tooling,existing tools did not match their approach,interviews,5,5,0,"P2, P9, P11, P13, P20",0,
+Tooling,uses Spec Kit,interviews and Reddit,4,2,2,"P2, P10, P11, P16",7,"R6, R13, R42, R43, R62, R72, R91"
+Tooling,need: evals and benchmarks,interviews and Reddit,3,1,2,"P10, P16, P20",1,R71
+Tooling,tools embody different philosophies,interviews and Reddit,3,2,1,"P8, P9, P20",1,R40
+Tooling,customizes for personal workflow fit,interviews,3,1,2,"P7, P17, P21",0,
+Tooling,uses Superpowers,interviews,3,0,3,"P4, P7, P19",0,
+Tooling,uses Kiro,interviews and Reddit,2,0,2,"P12, P19",1,R76
+Tooling,customization level: uses defaults,interviews,2,0,2,"P5, P15",0,
+Tooling,need: better spec review interfaces,interviews,2,1,1,"P10, P20",0,
+Tooling,need: links and dependency maps between specs,interviews,2,0,2,"P7, P10",0,
+Tooling,need: visualization of specs,interviews,2,0,2,"P7, P10",0,
+Tooling,switched SDD tools without abandoning SDD,interviews,2,1,1,"P7, P9",0,
+Tooling,uses BMAD,interviews and Reddit,1,0,1,P17,7,"R5, R12, R15, R59, R68, R81, R88"
+Tooling,"preference for open, inspectable tools",interviews and Reddit,1,0,1,P19,4,"R6, R62, R79, R87"
+Tooling,need: progress tracking across work,interviews and Reddit,1,1,0,P21,3,"R59, R74, R90"
+Tooling,need: traceability and provenance,interviews and Reddit,1,1,0,P20,1,R73
+Tooling,prioritize intended outcome over tool choice,interviews and Reddit,1,1,0,P9,1,R53
+Tooling,uses Traycer,interviews and Reddit,1,0,1,P18,1,R19
+Tooling,interested in Superpowers (not yet used),interviews,1,0,1,P5,0,
+Tooling,need: higher-level planning and orchestration above specs,interviews,1,0,1,P8,0,
+Tooling,preference for IDE integration and review convenience,interviews,1,1,0,P13,0,
+Tooling,used OpenSpec but abandoned,interviews,1,0,1,P7,0,
+Tooling,compares or surveys SDD tools,Reddit,0,0,0,,12,"R2, R3, R4, R17, R39, R40, R45, R54, R62, R67, R70, R78"
+Collaboration,collaboration as a goal rather than an observed outcome,interviews,7,6,1,"P1, P2, P3, P9, P11, P20, P21",0,
+Collaboration,team alignment on workflow,interviews,6,3,3,"P2, P6, P10, P11, P16, P19",0,
+Collaboration,specs reviewed before code,interviews and Reddit,4,2,2,"P5, P10, P13, P20",1,R41
+Collaboration,"modest team benefit, spec as shared review artifact",interviews,4,1,3,"P4, P5, P13, P19",0,
+Collaboration,"not applicable, SDD practiced solo",interviews,4,0,4,"P7, P8, P15, P18",0,
+Collaboration,access for non-technical stakeholders,interviews,3,3,0,"P9, P20, P21",0,
+Collaboration,little or no change in human collaboration,interviews,3,0,3,"P12, P14, P17",0,
+Collaboration,shared understanding across roles,interviews,3,1,2,"P6, P10, P16",0,
+Collaboration,"shifting roles (PM, BA, architect)",interviews,3,1,2,"P6, P10, P16",0,
+Collaboration,spec as team communication artifact,interviews,3,1,2,"P5, P13, P17",0,
+Collaboration,no change in team collaboration,interviews,2,0,2,"P12, P17",0,
+Collaboration,attracting and onboarding contributors,interviews,1,1,0,P1,0,
+Collaboration,limited change in team collaboration,interviews,1,0,1,P14,0,
+Benefit,more reliable agent work,interviews and Reddit,18,8,10,"P1, P2, P4, P5, P6, P7, P8, P9, P10, P11, P13, P14, P15, P16, P17, P19, P20, P21",7,"R6, R42, R45, R76, R83, R89, R91"
+Benefit,faster delivery and productivity,interviews and Reddit,7,2,5,"P6, P8, P10, P11, P14, P16, P19",3,"R59, R67, R84"
+Benefit,reduced tokens and rework,interviews and Reddit,7,3,4,"P4, P9, P11, P13, P14, P16, P17",2,"R18, R45"
+Benefit,reduced review and cognitive effort,interviews and Reddit,5,4,1,"P2, P10, P11, P13, P20",2,"R91, R95"
+Benefit,agent-written spec exposes gaps in own intent,interviews,5,2,3,"P7, P11, P14, P17, P20",0,
+Benefit,better context management,interviews and Reddit,4,3,1,"P1, P4, P9, P21",3,"R39, R79, R91"
+Benefit,clarity of thinking and intent,interviews and Reddit,4,2,2,"P1, P9, P18, P19",2,"R34, R41"
+Benefit,control and alignment of agents,interviews and Reddit,3,1,2,"P8, P13, P19",2,"R41, R83"
+Benefit,handles complex changes and larger projects,interviews and Reddit,3,1,2,"P2, P5, P15",2,"R78, R80"
+Benefit,long-horizon or unattended agent work,interviews and Reddit,3,0,3,"P10, P14, P19",2,"R20, R70"
+Benefit,improved code quality,interviews and Reddit,3,0,3,"P5, P14, P17",1,R91
+Benefit,shared understanding,interviews and Reddit,3,0,3,"P5, P16, P17",1,R91
+Benefit,documentation and project knowledge,interviews,3,1,2,"P4, P6, P10",0,
+Benefit,sustained velocity as the codebase grows,interviews,3,3,0,"P2, P6, P9",0,
+Benefit,enables parallel work,interviews and Reddit,2,0,2,"P4, P14",1,R91
+Benefit,improved output quality,interviews,2,1,1,"P6, P10",0,
+Benefit,reduced communication overhead,interviews,2,0,2,"P10, P16",0,
+Benefit,traceability and accountability,interviews and Reddit,1,0,1,P10,4,"R41, R44, R45, R85"
+Benefit,uncovers tacit requirements,interviews and Reddit,1,0,1,P18,2,"R41, R77"
+Benefit,less debugging,interviews and Reddit,1,0,1,P7,1,R84
+Benefit,benefits not attributable to SDD,interviews,1,0,1,P12,0,
+Benefit,bridges business and developers,interviews,1,1,0,P6,0,
+Benefit,onboarding,interviews,1,0,1,P10,0,
+Benefit,trust and reassurance,interviews,1,0,1,P12,0,
+Benefit,specs portable across agents and tools,Reddit,0,0,0,,2,"R42, R95"
+Benefit,lowers the entry barrier for newcomers,Reddit,0,0,0,,1,R77
+Challenge,token and model costs,interviews and Reddit,14,3,11,"P1, P3, P5, P6, P7, P8, P10, P13, P14, P15, P16, P17, P18, P19",12,"R1, R10, R36, R41, R54, R55, R69, R77, R79, R82, R92, R99"
+Challenge,spec-code drift,interviews and Reddit,14,5,9,"P2, P5, P6, P7, P8, P10, P11, P12, P13, P14, P16, P18, P19, P21",4,"R42, R46, R53, R55"
+Challenge,time overhead,interviews and Reddit,10,4,6,"P1, P3, P4, P6, P10, P13, P16, P17, P18, P21",10,"R4, R18, R41, R48, R62, R68, R74, R82, R86, R89"
+Challenge,drift type: agent deviates during implementation,interviews,8,1,7,"P5, P6, P7, P8, P16, P17, P18, P19",0,
+Challenge,drift type: spec goes stale as code evolves,interviews and Reddit,7,3,4,"P2, P8, P10, P11, P12, P14, P21",1,R73
+Challenge,underspecification and unknown unknowns,interviews and Reddit,6,3,3,"P1, P6, P8, P11, P14, P18",2,"R48, R82"
+Challenge,increased review load and large PRs,interviews,6,1,5,"P4, P8, P10, P11, P12, P14",0,
+Challenge,difficulties as project size grows,interviews and Reddit,5,0,5,"P3, P4, P14, P15, P18",3,"R4, R55, R84"
+Challenge,organizational adoption inertia,interviews,5,3,2,"P5, P6, P9, P19, P21",0,
+Challenge,spec corpus grows like a codebase,interviews,5,1,4,"P4, P10, P11, P17, P18",0,
+Challenge,tool rigidity or heaviness,interviews and Reddit,4,2,2,"P2, P7, P19, P20",10,"R16, R24, R25, R32, R54, R67, R69, R74, R79, R86"
+Challenge,cross-spec dependencies and complex features,interviews and Reddit,4,1,3,"P2, P4, P10, P18",1,R84
+Challenge,planning consumes most tokens,interviews,4,0,4,"P3, P10, P18, P19",0,
+Challenge,maintaining specs,interviews and Reddit,3,0,3,"P3, P5, P19",2,"R20, R73"
+Challenge,cognitive load shifted to spec authors,interviews and Reddit,3,1,2,"P6, P10, P16",1,R82
+Challenge,agents do not follow or skip parts of spec,interviews,3,0,3,"P16, P17, P18",0,
+Challenge,"model limitations (hallucination, overreach, assumptions)",interviews,3,0,3,"P5, P10, P17",0,
+Challenge,reading and reviewing long specs,interviews,3,0,3,"P3, P4, P18",0,
+Challenge,difficult for brownfield projects,interviews and Reddit,2,0,2,"P10, P16",4,"R14, R20, R42, R79"
+Challenge,articulating tacit intent,interviews and Reddit,2,1,1,"P6, P10",2,"R45, R54"
+Challenge,limits of specifying far ahead,interviews and Reddit,2,2,0,"P20, P21",2,"R51, R54"
+Challenge,rapid change in tools and practices,interviews and Reddit,2,1,1,"P6, P10",2,"R8, R52"
+Challenge,long or bloated specs,interviews and Reddit,2,0,2,"P3, P10",1,R33
+Challenge,adoption barrier: fear of job loss or role change,interviews,2,1,1,"P6, P19",0,
+Challenge,adoption barrier: lack of evidence to convince others,interviews,2,1,1,"P6, P10",0,
+Challenge,balancing spec detail and agent freedom,interviews,2,0,2,"P10, P15",0,
+Challenge,drift cause: incomplete spec,interviews,2,1,1,"P14, P21",0,
+Challenge,drift cause: model or harness,interviews,2,0,2,"P5, P19",0,
+Challenge,drift cause: own instructions or context,interviews,2,0,2,"P8, P17",0,
+Challenge,few challenges attributed to SDD,interviews,2,1,1,"P11, P17",0,
+Challenge,human attention is the bottleneck,interviews,2,0,2,"P8, P14",0,
+Challenge,insufficient context about existing system,interviews,2,0,2,"P10, P16",0,
+Challenge,lack of evals and metrics for workflows,interviews,2,1,1,"P10, P11",0,
+Challenge,spec correctness hard to evaluate,interviews,2,0,2,"P8, P10",0,
+Challenge,tracking progress across parallel work,interviews,2,1,1,"P14, P21",0,
+Challenge,verification debt,interviews,2,1,1,"P14, P20",0,
+Challenge,output varies across models and harnesses,interviews and Reddit,1,0,1,P19,5,"R1, R52, R56, R71, R86"
+Challenge,adoption barrier: technical setup and skills,interviews and Reddit,1,0,1,P5,1,R91
+Challenge,agent orchestration over long specs,interviews and Reddit,1,0,1,P3,1,R54
+Challenge,agent-induced technical debt,interviews and Reddit,1,0,1,P3,1,R57
+Challenge,loss of understanding of or trust in the system,interviews and Reddit,1,0,1,P3,1,R57
+Challenge,volatile or uncertain requirements,interviews and Reddit,1,0,1,P16,1,R20
+Challenge,adoption barrier: parts of the spec seen as not valuable,interviews,1,1,0,P20,0,
+Challenge,AI not accountable,interviews,1,0,1,P18,0,
+Challenge,AI-written specs hard for humans to understand,interviews,1,0,1,P3,0,
+Challenge,balancing spec detail and token consumption,interviews,1,0,1,P3,0,
+Challenge,drift cause: specs not linked to each other,interviews,1,1,0,P2,0,
+Challenge,insufficient stakeholder involvement in adoption,interviews,1,1,0,P6,0,
+Challenge,no problems with excessive spec detail reported,interviews,1,0,1,P5,0,
+Challenge,overspecification,interviews,1,0,1,P15,0,
+Challenge,SDD sustainability long term,interviews,1,0,1,P3,0,
+Challenge,skepticism about agent maturity,interviews,1,0,1,P3,0,
+Challenge,tracking progress across sequential work,interviews,1,0,1,P18,0,
+Challenge,choosing among SDD tools,Reddit,0,0,0,,3,"R38, R40, R47"
+Challenge,erosion of developer skills and ability to supervise agents,Reddit,0,0,0,,2,"R35, R57"
+Challenge,no clear improvement over direct prompting,Reddit,0,0,0,,2,"R75, R82"
+Challenge,no measurable improvement in code quality,Reddit,0,0,0,,2,"R41, R82"
+Challenge,tools assume a single team and repository,Reddit,0,0,0,,2,"R58, R60"
+Challenge,generated artifacts vary across runs,Reddit,0,0,0,,1,R82
+Challenge,natural-language specs open to interpretation,Reddit,0,0,0,,1,R54
+Challenge,requirements change across generated artifacts,Reddit,0,0,0,,1,R82
+Challenge,tools cover design and implementation but not setup or verification,Reddit,0,0,0,,1,R78
+Challenge,unclear when SDD is worth using,Reddit,0,0,0,,1,R91
+Challenge,user-interface work hard to specify in text,Reddit,0,0,0,,1,R91
+Learning curve,learned by doing and experimentation,interviews and Reddit,7,3,4,"P1, P9, P10, P12, P15, P19, P21",1,R39
+Learning curve,practice evolved over time,interviews,4,1,3,"P3, P6, P7, P8",0,
+Learning curve,advice for newcomers,interviews and Reddit,3,1,2,"P1, P4, P14",1,R77
+Learning curve,steep learning curve,interviews,3,0,3,"P5, P12, P15",0,
+Learning curve,depends on requirements engineering background,interviews,2,1,1,"P6, P12",0,
+Learning curve,education and training needs,interviews,2,1,1,"P8, P13",0,
+Learning curve,learned through community resources,interviews,2,0,2,"P4, P17",0,
+Learning curve,learning what a good spec looks like,interviews,2,0,2,"P10, P14",0,
+Learning curve,low learning curve,interviews,2,1,1,"P4, P13",0,
+Learning curve,harder for non-technical users,interviews and Reddit,1,0,1,P5,1,R64
+Learning curve,practice has not changed,interviews,1,0,1,P16,0,
+Learning curve,prior experience does not transfer,interviews,1,0,1,P19,0,
+Learning curve,requires harness engineering knowledge,interviews,1,0,1,P19,0,
+Agentic SE,"agent failure modes (hallucination, shortcuts, overreach)",interviews and Reddit,8,2,6,"P1, P3, P5, P8, P14, P16, P18, P21",4,"R30, R45, R69, R76"
+Agentic SE,model choice by task and cost,interviews and Reddit,8,2,6,"P1, P3, P8, P11, P12, P14, P15, P18",3,"R9, R42, R65"
+Agentic SE,context engineering and memory files,interviews and Reddit,7,2,5,"P1, P4, P8, P9, P14, P18, P19",6,"R21, R27, R43, R54, R80, R92"
+Agentic SE,uses multiple models or harnesses,interviews and Reddit,7,2,5,"P4, P5, P6, P7, P13, P14, P19",1,R68
+Agentic SE,"shifting human role (architect, reviewer, orchestrator)",interviews,7,3,4,"P8, P9, P11, P14, P15, P19, P21",0,
+Agentic SE,context window limits,interviews and Reddit,6,3,3,"P1, P3, P6, P11, P15, P17",7,"R23, R54, R62, R69, R76, R94, R95"
+Agentic SE,skills and plugins,interviews and Reddit,5,1,4,"P4, P7, P8, P15, P21",5,"R21, R23, R62, R68, R93"
+Agentic SE,agents cannot be trusted without checks,interviews and Reddit,5,2,3,"P2, P3, P14, P19, P21",2,"R77, R85"
+Agentic SE,limitations of vibe coding,interviews and Reddit,4,2,2,"P2, P11, P15, P19",2,"R92, R95"
+Agentic SE,local or open models,interviews and Reddit,4,1,3,"P6, P15, P16, P18",1,R6
+Agentic SE,agents for testing,interviews,4,0,4,"P4, P12, P14, P17",0,
+Agentic SE,models and tooling improving over time,interviews,4,2,2,"P5, P6, P8, P21",0,
+Agentic SE,harness matters as much as or more than model,interviews and Reddit,3,1,2,"P6, P8, P14",1,R85
+Agentic SE,agents write most or all code,interviews,3,0,3,"P3, P5, P14",0,
+Agentic SE,cost of frontier models,interviews,3,1,2,"P6, P14, P18",0,
+Agentic SE,faster delivery pace and pressure,interviews,3,2,1,"P6, P19, P21",0,
+Agentic SE,running agents in parallel,interviews and Reddit,2,1,1,"P14, P21",4,"R32, R39, R61, R90"
+Agentic SE,agents produce hard-to-maintain code,interviews and Reddit,2,0,2,"P3, P14",1,R41
+Agentic SE,changing code review practices,interviews,2,1,1,"P6, P14",0,
+Agentic SE,equity and market concentration concerns,interviews,2,2,0,"P6, P11",0,
+Agentic SE,productivity measurement,interviews,2,0,2,"P8, P10",0,
+Agentic SE,security and sandboxing of agents,interviews,2,2,0,"P1, P6",0,
+Agentic SE,human as bottleneck,interviews and Reddit,1,0,1,P8,1,R85
+Agentic SE,preference for CLI or pipeline agents,interviews and Reddit,1,1,0,P6,1,R6
+Agentic SE,agent reliability limited to spikes,interviews,1,0,1,P3,0,
+Agentic SE,agents for research,interviews,1,0,1,P4,0,
+Agentic SE,built own general-purpose agent harness,interviews,1,1,0,P1,0,
+Agentic SE,fine-tuning and specialized small models,interviews,1,0,1,P18,0,
+Agentic SE,human-agent handover,interviews,1,1,0,P21,0,
+Agentic SE,structured model I/O (YAML or JSON),interviews,1,0,1,P16,0,
+SDD perception,"planning is expensive, implementation cheap",interviews and Reddit,6,3,3,"P1, P3, P6, P10, P16, P20",1,R34
+SDD perception,intent must be clear before specifying,interviews,5,4,1,"P1, P2, P9, P17, P21",0,
+SDD perception,spec as memory and context for agents,interviews,5,3,2,"P3, P7, P11, P20, P21",0,
+SDD perception,relation to traditional RE and waterfall,interviews and Reddit,4,2,2,"P6, P12, P18, P20",4,"R17, R18, R77, R97"
+SDD perception,spec as intermediate or disposable artifact,interviews and Reddit,4,2,2,"P7, P9, P14, P21",1,R96
+SDD perception,benefits hard to attribute to SDD alone,interviews,4,1,3,"P8, P12, P14, P20",0,
+SDD perception,definition of spec and SDD is ambiguous,interviews and Reddit,3,2,1,"P9, P14, P20",1,R7
+SDD perception,specs help humans as well as agents,interviews and Reddit,3,2,1,"P1, P10, P20",1,R95
+SDD perception,net time saving uncertain,interviews,3,0,3,"P3, P14, P17",0,
+SDD perception,SDD is organizational rather than a tool,interviews,3,2,1,"P6, P9, P14",0,
+SDD perception,spec as contract,interviews,3,1,2,"P2, P10, P19",0,
+SDD perception,speed gains credited to AI rather than SDD,interviews,3,1,2,"P6, P8, P14",0,
+SDD perception,SDD may be transitional as models improve,interviews and Reddit,2,2,0,"P20, P21",4,"R38, R41, R70, R75"
+SDD perception,spec as alignment and communication,interviews and Reddit,2,2,0,"P9, P20",1,R41
+SDD perception,value lies in the process of specifying,interviews and Reddit,2,2,0,"P9, P20",1,R54
+SDD perception,code is the spec,interviews and Reddit,1,1,0,P21,1,R55
+SDD perception,agentic SDD perceived as recent,interviews,1,0,1,P19,0,
+SDD perception,specs and plans as intermediate or disposable artifact,interviews,1,0,1,P3,0,
+Other,critique of software industry practices,interviews,4,3,1,"P1, P2, P8, P20",0,
+Other,project-specific technical detail,interviews,3,1,2,"P1, P4, P18",0,
+Other,research interests beyond SDD,interviews,2,1,1,"P1, P18",0,
+Other,oss dependence on people and high quality standards,interviews,1,0,1,P3,0,
+Other,personal context,interviews,1,1,0,P1,0,
+Other,software and language design philosophy,interviews,1,1,0,P1,0,

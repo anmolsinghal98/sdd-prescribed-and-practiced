@@ -1,0 +1,17 @@
+# The uncompressed database is a build product of `make data`; only the
+# compressed copy is versioned.
+data/specmine-sample.sqlite
+data/*.sqlite-journal
+data/*.gz
+
+# Derived from the packaged database by `make data`; 155 MB.
+data/build/
+
+# Figure and report output
+figures/out/
+verify/out/
+
+__pycache__/
+*.pyc
+.DS_Store
+.env

@@ -1,0 +1,85 @@
+# Keywords for filtering Reddit posts related to spec-driven development
+# Lines starting with # are comments and are ignored
+# One keyword or phrase per line (case-insensitive matching)
+
+# --- Spec-driven development core terms ---
+spec-driven
+spec driven
+specification-driven
+specification driven
+spec coding
+spec-coding
+spec-first
+spec first
+specification
+write the spec
+write a spec
+writing specs
+write specs
+spec file
+spec.md
+specs.md
+SPEC.md
+spec
+
+# --- SpecKit / spec-kit ---
+speckit
+spec-kit
+spec kit
+
+# --- BMAD method ---
+bmad
+bmad method
+bmad-method
+
+# --- Requirements and planning documents ---
+prd
+product requirements document
+product requirement document
+requirements document
+technical specification
+tech spec
+technical spec
+design doc
+design document
+system design document
+feature spec
+feature specification
+architecture document
+architecture doc
+functional specification
+functional spec
+
+# --- Agentic / AI workflow planning ---
+planning phase
+planning document
+planning mode
+plan first
+plan before coding
+plan before you code
+write the plan
+task breakdown
+task decomposition
+structured prompting
+structured prompt
+multi-agent workflow
+agent workflow
+agentic workflow
+agentic coding
+agentic development
+
+# --- AI tools / workflow phrases ---
+context window stuffing
+context engineering
+prompt engineering for coding
+system prompt
+instruction file
+rules file
+cursor rules
+.cursorrules
+claude.md
+CLAUDE.md
+copilot instructions
+coding agent
+ai agent coding
+ai coding workflow
