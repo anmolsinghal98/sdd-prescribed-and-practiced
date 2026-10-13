@@ -12,7 +12,8 @@ sample and do not sum to 253.
 Right: specification files per month, by the tool that produced them. Every file
 carries exactly one attribution, so these do partition the sample.
 
-Six series: the five tools with the largest share plus a pooled Other. Colours
+Seven series: the five tools with the most files, Conductor (fourth by
+repositories adopted), and a pooled Other. Colours
 follow the tool, not its rank, so a tool keeps its colour across both panels
 even though the two orderings differ (OpenCode is third by files and ninth by
 adoptions). Linear axes, deliberately: OpenSpec towers over everything else and
